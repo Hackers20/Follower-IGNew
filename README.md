@@ -14,3 +14,9 @@ Cara Menggunakan Tools Saya
 9. pip install requests
 10. pip2 install mechanize
 11. pkg install nano
+
+Kalau Sudah Di Install Semua Kita Lanjut
+
+git clone https://github.com/Hackers20/Follower-IGNew
+cd Follower-IGNew
+sh IG.sh
